@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Erin Miller
-description:      'A computer science student seeking a summer internship.'
-url:              https://fongandrew.github.io
+description:      'Currently seeking internships that challenge and innovate.'
+url:              https://erin-miller.github.io/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,8 +14,7 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Erin Miller'
 
 plugins:
   - jekyll-gist
